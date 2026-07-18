@@ -21,6 +21,7 @@ AI อาจช่วยตรวจ grammar, formatting หรือควา�
 ## 1. ข้อมูล OJ
 
 | Item | Answer |
+|---|---|
 | OJ problem number/title | OJ3011 - Colors |
 | OJ submission ID, if submitted | 545178 |
 | OJ status | Pass |
